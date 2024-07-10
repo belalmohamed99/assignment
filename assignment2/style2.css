@@ -1,0 +1,26 @@
+*{
+    background-color: bisque;
+}
+.navbar-loge {
+  list-style-type: none;
+  float: left;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.navbar-li {
+  list-style-type: none;
+  float: right;
+  font-family: "Courier New", Courier, monospace;
+}
+
+a {
+  text-decoration: none;
+  display: flex;
+  margin: 12px 15px;
+}
+
+.image {
+  width: 90%;
+  height: 500px;
+  margin: 50px;
+}
