@@ -1,0 +1,15 @@
+body {
+  align-items: center;
+  background-color: aquamarine;
+}
+
+.table-students{
+    
+background-color:darkcyan ;
+width: 700px;
+margin: 50px;
+}
+.youtube-link{
+    margin: 50px;
+    display: flex;
+}
